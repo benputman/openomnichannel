@@ -1,5 +1,5 @@
 # openomnichannel
-Open-source Omnichannel Marketing Framework
+The Open-source Omnichannel Marketing Framework
 
 # Omnichannel Marketing: An Open Source Educational Project
 
